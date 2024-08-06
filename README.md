@@ -1,2 +1,2 @@
 # Guess-the-word
-IT IS A GAME SPECIALLY MADE USING PYTHON
+This program is basically of a game popular among children which is "GUESS THE WORD" in this game the program read the pre saved 4000 word csv file and read that csv file  then it finds the random word among them and creates the random spaces to complete the word.it will give you 5 chances if the word is not guessed with in the given chances there will be an announcement of "YOU LOST".But if you are able to complete the game within the desired time you will get a winning message.****
